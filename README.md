@@ -3,10 +3,10 @@
 Passionate about coding and turning ideas into reality. I'm not fueled by coffee but by the love for clean code and creative problem-solving. 🌈✨
 
 ### 💻 Tech Toolbox:
-- Languages: Python, JavaScript, Php, C#
-- Frameworks: Django, VueJS, Laravel
-- Databases: PostgreSQL, MySQK
-- Tools: Git, Docker
+- Languages: Python, JavaScript, Php, C#, Rails
+- Frameworks: Django, VueJS, Laravel, Ruby on Rails
+- Databases: PostgreSQL, MySQL
+- Tools: Git, Docker, Redis, Jenkins
 
 ### 🚀 What Fires Me Up:
 - Crafting software that makes an impact
