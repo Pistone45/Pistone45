@@ -6,7 +6,7 @@ Passionate about coding and turning ideas into reality. I'm not fueled by coffee
 - Languages: Python, JavaScript, Php, C#, Rails, Java, Dart
 - Frameworks: Django, VueJS, Laravel, Ruby on Rails, Flutter
 - Databases: PostgreSQL, MySQL
-- Tools: Git, Docker, Redis, Jenkins
+- Tools: Git, Docker, Redis, Jenkins, Figma
 
 ### 🚀 What Fires Me Up:
 - Crafting software that makes an impact
