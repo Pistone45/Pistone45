@@ -14,7 +14,7 @@ Passionate about coding and turning ideas into reality. I'm not fueled by coffee
 - Continuous learning and staying on the cutting edge 📚
 
 ### 🌐 Let's Connect & Collaborate:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pistone-junior-sanjama-b30245ba)
+- Twitter: [@YourTwitterHandle](https://twitter.com/pistonesanjama)
 
 ### 🤝 Open to collaboration and new opportunities. Let's create something awesome together! 🚀
