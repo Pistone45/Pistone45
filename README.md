@@ -4,7 +4,7 @@ Passionate about coding and turning ideas into reality. I'm not fueled by coffee
 
 ### 💻 Tech Toolbox:
 - Languages: Python, JavaScript, Php, C#, Rails, Java, Dart
-- Frameworks: Django, VueJS, Laravel, Ruby on Rails, Flutter
+- Frameworks: Django, VueJS, Laravel, ASP.NET core, Ruby on Rails, Flutter
 - Databases: PostgreSQL, MySQL
 - Tools: Git, Docker, Redis, Jenkins, Figma
 
